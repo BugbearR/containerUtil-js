@@ -19,7 +19,8 @@ module.exports = {
                 [
                     "minify"
                 ]
-            ]
+            ],
+            comments: false
         }
     }
 };
