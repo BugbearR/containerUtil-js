@@ -10,7 +10,7 @@ module.exports = {
     ],
     plugins: [
         "@babel/plugin-proposal-class-properties",
-        "transform-es2015-modules-umd"
+        "@babel/plugin-transform-modules-umd"
     ],
     sourceMaps: true,
     env: {
